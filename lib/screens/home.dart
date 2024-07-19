@@ -2,9 +2,9 @@ import 'package:assignment/colors.dart';
 import 'package:assignment/controllers/services/auth_service.dart';
 import 'package:assignment/screens/login_page/login_page.dart';
 import 'package:assignment/screens/read_transcript_screen.dart';
-import 'package:assignment/screens/transcript_screen.dart';
-import 'package:assignment/screens/trial.dart';
-import 'package:assignment/screens/whisper_screen.dart';
+
+import 'package:assignment/screens/converter_screen.dart';
+
 import 'package:assignment/widgets/transcript_Tile.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';
